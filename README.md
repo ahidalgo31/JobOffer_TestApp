@@ -1,15 +1,14 @@
 NOTES ABOUT THIS PROJECT:
 
-- IN ORDER TO PERFORM CRUD OPERATIONS I USED ADO.NET.
-- THE DATA ENTRY FOR ITEMS AND ATTIBUTES WAS MADE DIRECTLY INTO THE TABLES DUE TIMING CONSTRAINTS. 
-- A UI WAS DESIGNED IN ORDER TO CREATE, UPDATE, DELETE, VIEW ITEMS AND SEARCH GROUPS. THIS IS LOCATED IN THE DEFAULT ROUTE PATH. 
-- FOR IoC CONTAINER I USED UNITY FRAMEWORK. 
-- FOR UNIT TESTING I ONLY ADDED TWO TEST METHOD USING MOCKING FRAMEWORK. I THINK THE MOST IMPORTANT THING IS TO DEMOSTRATE THE    
-  UNDERSTANDING ABOUT THIS DISIGN PATTERN. 
-- THE DB CREATING AND DATA SCRIPTS ARE INCLUDED IN A SEPARATE FOLDER OUTSIDE THE SOLUTION STRUCTURE. 
+- In order to perform CRUD operations I used ADO.NET. 
+- The data entry for Items and Attributes was made directly into the tables due timing constraint. 
+- A UI was designed in order to Crete, Update, Delete, View Items and Search Groups. This is located in the default Routing path.
+- For IoC Container I used Unity Framework.  
+- For Unit Testing I only added two test method using mocking framework. I think the most important thing is to demostrate the 
+  understanding of this design pattern.
+- The DB Schema and Data Scripts are included in a separate folder outside the solution structure. 
 
-
-THANKS, 
-ADRIANO. 
+Thanks, 
+Adriano. 
 
 
